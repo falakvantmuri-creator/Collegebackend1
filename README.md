@@ -56,5 +56,5 @@ Put environment variable by creating .env file
 JWT_SECRET=your_super_secret_jwt_key_here
 
 
-##Owner - muskan
+##Owner - falak
 
